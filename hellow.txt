@@ -1,0 +1,24 @@
+
+ORDINE 20
+del 10-10-2015 alle ore 10:00
+pizzeria d'albertis (cod. 663)
+
+1 pizze
+01 x capresina                   6.50
+
+2 bibite
+01 x coca cola                   1.50
+01 x mezza gassata               0.50
+-------------------------------------
+confezionamento per asporto      0.50
+fattorino a domicilio            1.00
+totale euro                     10.00
+-------------------------------------
+
+consegna a domicilio
+10-10-2015             alle ore 13:30
+
+Caterina de Michel
+salita san giorgio 6/9
+16100 genova
+tel. 1234567901
